@@ -108,21 +108,3 @@ The client will connect to the server and generate `output.json`.
 
 ## Output Verification
 After successful execution, check the `ABXExchangeClient` folder for `output.json`.
-
-## Troubleshooting
-
-### 1. "Cannot Open 'boost/json.hpp'"
-- Ensure Boost is installed: `vcpkg install boost-json`.
-- Run: `vcpkg integrate install`.
-- Restart Visual Studio and rebuild.
-
-### 2. "node: command not found"
-- Reinstall Node.js from [https://nodejs.org/](https://nodejs.org/).
-- Restart your PC and try again.
-
-### 3. No `output.json` File
-- Ensure the **Node.js server** is running before starting the C++ client.
-
-## Conclusion
-🎉 The ABXExchangeClient is now set up and running! 🚀 If you encounter any issues, feel free to open an issue on GitHub or reach out to the maintainers.
-
