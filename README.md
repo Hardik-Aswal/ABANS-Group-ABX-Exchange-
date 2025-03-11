@@ -1,4 +1,4 @@
-# ABXExchangeClient
+# ABANS-Group-ABX-Exchange-
 
 ## Overview
 ABXExchangeClient is a C++ client application that connects to a Node.js server, receives data packets, and generates an `output.json` file. This README provides step-by-step instructions to set up, build, and run the project.
