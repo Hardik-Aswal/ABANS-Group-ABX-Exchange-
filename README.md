@@ -19,7 +19,7 @@ Ensure you have the following software installed before proceeding:
 # Open a terminal (Command Prompt or PowerShell)
 cd C:\Users\YourName\Documents
 
-git clone [https://github.com/YOUR-REPO/ABXExchangeClient.git](https://github.com/Hardik-Aswal/ABANS-Group-ABX-Exchange-)
+git clone https://github.com/Hardik-Aswal/ABANS-Group-ABX-Exchange-
 cd ABANS-Group-ABX-Exchange-
 ```
 
